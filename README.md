@@ -1,4 +1,4 @@
-# My Gallery App
+# Gallery App
 
 A simple React Native app for capturing and managing images with camera and geolocation features.
 
