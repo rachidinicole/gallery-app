@@ -9,6 +9,7 @@ const ImageDetails = () => {
     const { imageUri } = route.params || {};
     const image = getImageDetails(imageUri);
 
+    // Move the function declaration above its usage
     const getImageDetails = (uri) => {
         const location = 'Dummy Location';
         const creationTime = new Date();

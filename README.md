@@ -22,7 +22,7 @@ My Gallery App is a mobile application developed using React Native and Expo. It
 
 ## Screenshots
 
-Include screenshots or images of your app to showcase its appearance and features.
+![Screenshot](./assets/sreen.jpeg)
 
 ## Features
 
